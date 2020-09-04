@@ -1,6 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+
 VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageRecognition.API", "ImageRecognition.API\ImageRecognition.API.csproj", "{750976B4-AB0A-49C0-A47D-84CDBBB40A96}"
