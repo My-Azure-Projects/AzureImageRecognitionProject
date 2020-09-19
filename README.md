@@ -10,6 +10,5 @@ End points have been created to
 ### obtain tags of objects present in an image 
 ### read text in an image.
 
-
 ### Tech Stack
 The back end is developed using .NET Core 2.2, Web API and Azure. The front end is developed using Angular 8, Typescript, HML, CSS.
