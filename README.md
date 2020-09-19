@@ -2,6 +2,7 @@
 
 ## This project demonstrates the use of Azure's Cognitive Services to analyze images using AI.
 
+
 End points have been created to 
 
 ### identify objects in an image 
